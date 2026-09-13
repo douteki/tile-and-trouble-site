@@ -18,4 +18,4 @@ By adding Tile & Trouble to a Discord server or playing a game with it, you agre
 
 7. **Changes.** These terms may be updated; the date at the top will change when they are. Continued use after a change means you accept the new terms.
 
-Contact: see `/about` in Discord.
+Contact: use `/feedback` in Discord, or see `/about` for support links.

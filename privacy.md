@@ -26,7 +26,7 @@ Data is stored in a database on the hosting provider the bot runs on. Game state
 
 ## Removing your data
 
-Leave a game with `/resign`. To have your user ID and results removed entirely, contact the bot's operator (see `/about` in Discord) and it will be deleted from the database.
+Leave a game with `/resign`. To have your user ID and results removed entirely, send a request with `/feedback` in Discord and it will be deleted from the database.
 
 ## Children
 
@@ -38,4 +38,4 @@ If this policy changes, the date at the top will be updated. Continued use of th
 
 ## Contact
 
-Use the support link shown by `/about` in Discord.
+Use the `/feedback` command in Discord — it goes straight to the person who runs the bot. `/about` in Discord also shows any support links.
